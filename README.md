@@ -6,8 +6,7 @@ This is a custom Chrome extension that allows you to easily **select and delete 
 - ✅ Select friends using checkboxes  
 - 🗑️ Delete selected friends with one click  
 - 🎨 Custom animated GUI with draggable panel  
-- ⚙️ Built-in settings to upload your own background  
-- 👤 Live preview of selected users (avatar + username)
+- ⚙️ Built-in settings to upload your own background
 
 ---
 
