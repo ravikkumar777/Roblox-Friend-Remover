@@ -32,3 +32,21 @@ Report bugs or issues to Discord user: **9fso**
 
 ### 💬 Credits
 Made with ❤️ by [sm7h](https://github.com/sm7h)
+
+🧾 How to Use Roblox Fastest Friend Remover
+Go to your friends list
+Open this URL in Chrome:
+👉 https://www.roblox.com/users/friends#!/friends
+
+The GUI will appear automatically
+A stylish floating panel will show up like this:
+
+Select friends to remove
+You'll see checkboxes on the top-left of each friend card.
+Click to select one or multiple friends.
+
+Click the "Delete" button
+After selecting, click the "Delete" button on the floating panel.
+
+Confirm deletion
+A confirmation box will pop up. Click OK to proceed.
