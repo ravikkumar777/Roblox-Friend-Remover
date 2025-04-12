@@ -38,15 +38,28 @@ Go to your friends list
 Open this URL in Chrome:
 👉 https://www.roblox.com/users/friends#!/friends
 
-The GUI will appear automatically
+1 - The GUI will appear automatically
 A stylish floating panel will show up like this:
 
-Select friends to remove
+![image](https://github.com/user-attachments/assets/889cc63c-3d81-4ba4-962f-b347eb78a40c)
+
+2 - Select friends to remove
 You'll see checkboxes on the top-left of each friend card.
 Click to select one or multiple friends.
 
-Click the "Delete" button
+![image](https://github.com/user-attachments/assets/ca4a427f-9b74-4f4b-b3e1-2f6012238dc1)
+
+3 - Click the "Delete" button
 After selecting, click the "Delete" button on the floating panel.
 
-Confirm deletion
+![image](https://github.com/user-attachments/assets/3c6b3266-f94c-481b-927b-8172dad08453)
+
+4 - Confirm deletion
 A confirmation box will pop up. Click OK to proceed.
+
+![image](https://github.com/user-attachments/assets/d793fb09-8f7e-4459-be38-19ecfb5de5ff)
+
+
+
+
+
