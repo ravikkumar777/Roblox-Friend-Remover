@@ -1,3 +1,5 @@
+@@ -0,0 +1,2 @@
+ # Roblox-Auto-Unfriend
 # 🤖 Roblox Friend Remover Extension
 
 This is a custom Chrome extension that allows you to easily **select and delete multiple friends** from your Roblox friends list in a modern and stylish way.
