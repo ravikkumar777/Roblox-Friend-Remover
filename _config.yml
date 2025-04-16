@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -53,3 +54,17 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+=======
+# _config.yml
+
+# إضافة المجلدات التي لا تريد أن يتم تحويلها أو بناؤها.
+exclude:
+  - docs/assets/css/style.scss
+  - docs/_site
+  - .jekyll-cache
+
+# إذا كان لديك إعدادات إضافية لتكوين Jekyll هنا، يمكنك إضافتها
+title: "Roblox Friend Remover"
+description: "A tool to mass remove friends from Roblox."
+theme: jekyll-theme-primer
+>>>>>>> bdc530f3bfca668254c2d1e38f912a327b67e464
