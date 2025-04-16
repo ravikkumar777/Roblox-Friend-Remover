@@ -11,7 +11,7 @@ This is a custom Chrome extension that allows you to easily **select and delete 
 ---
 
 ### 📦 How to Install (Manual)
-1. Download the source code (`sym_friend_remover`) as a ZIP file  
+1. Download the source code (`Roblox friend remover -`) as a ZIP file  
 2. Go to `chrome://extensions/` in your Chrome browser  
 3. Enable **Developer mode**  
 4. Click **Load unpacked** and select the folder
